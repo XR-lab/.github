@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Our [conventions wiki](https://github.com/XR-lab/.github/wiki)
+
 <!--
 
 **Here are some ideas to get you started:**
